@@ -31,3 +31,11 @@ Python Flask for Beginners: Build aCRUD web app using Flask
 - 第一节：Introduction and Course Structure - 3 mins
 - 第二节：Understanding how the web works - 4 mins
 - 第三节：Setting up your development enviornment and your first Flask application - 30 mins
+
+## Day 4 - Git and GitHub
+
+需要安装的软件
+
+- Git <https://git-scm.com/>
+- GitHub Desktop <https://desktop.github.com/>
+- Visual Studio Code <https://code.visualstudio.com/>
