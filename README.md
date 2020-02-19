@@ -46,6 +46,8 @@ Mac电脑使用Cmd+Space启动搜索框，然后输入 iterm 打开命令行
 
 如果没有iTerm，请从<https://iterm2.com/>下载并安装
 
+命令行基本命令的使用
+
 ```shell
 ## 查看当前文件夹位置
 pwd
@@ -83,4 +85,19 @@ rm -rf <文件夹名称>
 rm -rf <文件名>
 
 ## 在任何需要输入<文件名>和<文件夹名称>的地方都可以使用部分输入+Tab的方式快速完成输入
+```
+
+使用命令行运行python应用
+
+```shell
+python <xxx.py>
+```
+
+使用命令行安装python 虚拟环境工具virutalenv
+
+```shell
+## pip 是 python 的依赖包管理器，可以用来从互联网上获取和安装python的各类工具和库
+pip install virutalenv
+## 安装完成后可以输入virutalenv看到这个工具的输出
+virutalenv
 ```
