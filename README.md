@@ -23,6 +23,18 @@ Python Flask Web开发入门与实践
 
 - 第一节：Hello World - 24 mins
 
+这个章节中所使用的app.py代码如下
+
+```python
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    return "Hello World"
+```
+
 ### English
 
 Python Flask for Beginners: Build aCRUD web app using Flask
