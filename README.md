@@ -109,7 +109,7 @@ python <xxx.py>
 
 ```shell
 ## pip 是 python 的依赖包管理器，可以用来从互联网上获取和安装python的各类工具和库
-pip install virutalenv
+pip install virtualenv
 ## 安装完成后可以输入virutalenv看到这个工具的输出
 virutalenv
 ```
