@@ -113,3 +113,21 @@ pip install virtualenv
 ## 安装完成后可以输入virutalenv看到这个工具的输出
 virutalenv
 ```
+
+## Day 6
+
+### 中文课程
+
+Python Flask Web开发入门与实践
+<https://www.udemy.com/course/python-flask/learn/lecture/13881140#overview>
+
+- 第二节：HTML基础 - 53 min
+
+### English
+
+Python Flask for Beginners: Build aCRUD web app using Flask
+<https://www.udemy.com/course/python-flask-beginners/learn/lecture/8978806?start=0#overview>
+
+- 第 4 节： Basic structure of a Flask application
+- 第 5 节： Using the Jinja 2 template engine
+- 第 6 节： Adding CSS to your application using Bootstrap
